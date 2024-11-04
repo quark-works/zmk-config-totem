@@ -6,8 +6,8 @@ include:
     shield: totem_peripheral_left
     artifact-name: totem_peripheral_left
   - board: seeeduino_xiao_ble
-    shield: totem_left
+    shield: totem_peripheral_left
     artifact-name: totem_central_left
   - board: seeeduino_xiao_ble
-    shield: totem_right
+    shield: totem_peripheral_right
     artifact-name: totem_peripheral_right
